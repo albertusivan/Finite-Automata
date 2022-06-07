@@ -1,4 +1,4 @@
-#Cara menggunakan rogram Lexical Analyzer
+#Cara menggunakan Program Lexical Analyzer
 
 1. Program dapat menerima inputan berupa string.
 2. Terdapat 10 kata yang akan dinyatakan valid ketika diinput ke dalam Lexical Analyzer diantaranya.
